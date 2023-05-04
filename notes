@@ -1,0 +1,34 @@
+npx means execution
+npx parcel inception/index.html
+here we are execute parcel with an entry point and this will create the local host
+
+what is parcel doing?
+
+1 hmr
+2 file watching algorithm written in c++
+3 bundling
+4 minify
+5 cleaning our code
+6 dev and production build
+7 super fast build algirthm - press ctrl+s and check build time
+8 image optimization
+9 chaching while development
+10 Compression
+11 compatible with older version of browser
+12 HTTPS on dev
+13 port number
+14 consistent hashing algorithm
+15 zero config
+16 transitive dependicies - the dependies which are dependent on other dependies it is like a dependency tree
+17 browser list for all browsers
+18 tree shaking - removing unwanted code
+
+for using react in our system we use type modeule in script
+
+
+----------------laying the foundation--------------------------
+polyfill convert the new version code into old version code like ES6 features may not be supported in 1990 browsers
+npm vs npx - npm commands are used when you want to install things in our projects npx is used for execution
+npm run when we write then we can consider it as npx 
+
+-> babel plugin transform remove consile is use to remove the console.log
